@@ -1,0 +1,462 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0A1242EC16D9215E003ECE00 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A1242EB16D9215E003ECE00 /* UIKit.framework */; };
+		0A1242EE16D9215E003ECE00 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A1242ED16D9215E003ECE00 /* Foundation.framework */; };
+		0A1242F016D9215E003ECE00 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A1242EF16D9215E003ECE00 /* CoreGraphics.framework */; };
+		0A1242F616D9215E003ECE00 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A1242F416D9215E003ECE00 /* InfoPlist.strings */; };
+		0A1242F816D9215E003ECE00 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1242F716D9215E003ECE00 /* main.m */; };
+		0A1242FC16D9215E003ECE00 /* FLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A1242FB16D9215E003ECE00 /* FLAppDelegate.m */; };
+		0A1242FE16D9215E003ECE00 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A1242FD16D9215E003ECE00 /* Default.png */; };
+		0A12430016D9215E003ECE00 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A1242FF16D9215E003ECE00 /* Default@2x.png */; };
+		0A12430216D9215E003ECE00 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A12430116D9215E003ECE00 /* Default-568h@2x.png */; };
+		0A12430516D9215E003ECE00 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A12430316D9215E003ECE00 /* MainStoryboard.storyboard */; };
+		0A12430816D9215E003ECE00 /* FLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A12430716D9215E003ECE00 /* FLViewController.m */; };
+		0A12431016D9215E003ECE00 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A12430F16D9215E003ECE00 /* SenTestingKit.framework */; };
+		0A12431116D9215E003ECE00 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A1242EB16D9215E003ECE00 /* UIKit.framework */; };
+		0A12431216D9215E003ECE00 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A1242ED16D9215E003ECE00 /* Foundation.framework */; };
+		0A12431A16D9215E003ECE00 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A12431816D9215E003ECE00 /* InfoPlist.strings */; };
+		0A12431D16D9215E003ECE00 /* OnesieTwosieTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A12431C16D9215E003ECE00 /* OnesieTwosieTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0A12431316D9215E003ECE00 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0A1242DE16D9215E003ECE00 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0A1242E616D9215E003ECE00;
+			remoteInfo = OnesieTwosie;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0A1242E716D9215E003ECE00 /* OnesieTwosie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnesieTwosie.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A1242EB16D9215E003ECE00 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0A1242ED16D9215E003ECE00 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0A1242EF16D9215E003ECE00 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0A1242F316D9215E003ECE00 /* OnesieTwosie-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "OnesieTwosie-Info.plist"; sourceTree = "<group>"; };
+		0A1242F516D9215E003ECE00 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0A1242F716D9215E003ECE00 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0A1242F916D9215E003ECE00 /* OnesieTwosie-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OnesieTwosie-Prefix.pch"; sourceTree = "<group>"; };
+		0A1242FA16D9215E003ECE00 /* FLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLAppDelegate.h; sourceTree = "<group>"; };
+		0A1242FB16D9215E003ECE00 /* FLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLAppDelegate.m; sourceTree = "<group>"; };
+		0A1242FD16D9215E003ECE00 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		0A1242FF16D9215E003ECE00 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		0A12430116D9215E003ECE00 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		0A12430416D9215E003ECE00 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		0A12430616D9215E003ECE00 /* FLViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FLViewController.h; sourceTree = "<group>"; };
+		0A12430716D9215E003ECE00 /* FLViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FLViewController.m; sourceTree = "<group>"; };
+		0A12430E16D9215E003ECE00 /* OnesieTwosieTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OnesieTwosieTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A12430F16D9215E003ECE00 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		0A12431716D9215E003ECE00 /* OnesieTwosieTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "OnesieTwosieTests-Info.plist"; sourceTree = "<group>"; };
+		0A12431916D9215E003ECE00 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0A12431B16D9215E003ECE00 /* OnesieTwosieTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OnesieTwosieTests.h; sourceTree = "<group>"; };
+		0A12431C16D9215E003ECE00 /* OnesieTwosieTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OnesieTwosieTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0A1242E416D9215E003ECE00 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A1242EC16D9215E003ECE00 /* UIKit.framework in Frameworks */,
+				0A1242EE16D9215E003ECE00 /* Foundation.framework in Frameworks */,
+				0A1242F016D9215E003ECE00 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0A12430A16D9215E003ECE00 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A12431016D9215E003ECE00 /* SenTestingKit.framework in Frameworks */,
+				0A12431116D9215E003ECE00 /* UIKit.framework in Frameworks */,
+				0A12431216D9215E003ECE00 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A1242DC16D9215E003ECE00 = {
+			isa = PBXGroup;
+			children = (
+				0A1242F116D9215E003ECE00 /* OnesieTwosie */,
+				0A12431516D9215E003ECE00 /* OnesieTwosieTests */,
+				0A1242EA16D9215E003ECE00 /* Frameworks */,
+				0A1242E816D9215E003ECE00 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0A1242E816D9215E003ECE00 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0A1242E716D9215E003ECE00 /* OnesieTwosie.app */,
+				0A12430E16D9215E003ECE00 /* OnesieTwosieTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0A1242EA16D9215E003ECE00 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0A1242EB16D9215E003ECE00 /* UIKit.framework */,
+				0A1242ED16D9215E003ECE00 /* Foundation.framework */,
+				0A1242EF16D9215E003ECE00 /* CoreGraphics.framework */,
+				0A12430F16D9215E003ECE00 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0A1242F116D9215E003ECE00 /* OnesieTwosie */ = {
+			isa = PBXGroup;
+			children = (
+				0A1242FA16D9215E003ECE00 /* FLAppDelegate.h */,
+				0A1242FB16D9215E003ECE00 /* FLAppDelegate.m */,
+				0A12430316D9215E003ECE00 /* MainStoryboard.storyboard */,
+				0A12430616D9215E003ECE00 /* FLViewController.h */,
+				0A12430716D9215E003ECE00 /* FLViewController.m */,
+				0A1242F216D9215E003ECE00 /* Supporting Files */,
+			);
+			path = OnesieTwosie;
+			sourceTree = "<group>";
+		};
+		0A1242F216D9215E003ECE00 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0A1242F316D9215E003ECE00 /* OnesieTwosie-Info.plist */,
+				0A1242F416D9215E003ECE00 /* InfoPlist.strings */,
+				0A1242F716D9215E003ECE00 /* main.m */,
+				0A1242F916D9215E003ECE00 /* OnesieTwosie-Prefix.pch */,
+				0A1242FD16D9215E003ECE00 /* Default.png */,
+				0A1242FF16D9215E003ECE00 /* Default@2x.png */,
+				0A12430116D9215E003ECE00 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0A12431516D9215E003ECE00 /* OnesieTwosieTests */ = {
+			isa = PBXGroup;
+			children = (
+				0A12431B16D9215E003ECE00 /* OnesieTwosieTests.h */,
+				0A12431C16D9215E003ECE00 /* OnesieTwosieTests.m */,
+				0A12431616D9215E003ECE00 /* Supporting Files */,
+			);
+			path = OnesieTwosieTests;
+			sourceTree = "<group>";
+		};
+		0A12431616D9215E003ECE00 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0A12431716D9215E003ECE00 /* OnesieTwosieTests-Info.plist */,
+				0A12431816D9215E003ECE00 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0A1242E616D9215E003ECE00 /* OnesieTwosie */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0A12432016D9215E003ECE00 /* Build configuration list for PBXNativeTarget "OnesieTwosie" */;
+			buildPhases = (
+				0A1242E316D9215E003ECE00 /* Sources */,
+				0A1242E416D9215E003ECE00 /* Frameworks */,
+				0A1242E516D9215E003ECE00 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OnesieTwosie;
+			productName = OnesieTwosie;
+			productReference = 0A1242E716D9215E003ECE00 /* OnesieTwosie.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0A12430D16D9215E003ECE00 /* OnesieTwosieTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0A12432316D9215E003ECE00 /* Build configuration list for PBXNativeTarget "OnesieTwosieTests" */;
+			buildPhases = (
+				0A12430916D9215E003ECE00 /* Sources */,
+				0A12430A16D9215E003ECE00 /* Frameworks */,
+				0A12430B16D9215E003ECE00 /* Resources */,
+				0A12430C16D9215E003ECE00 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0A12431416D9215E003ECE00 /* PBXTargetDependency */,
+			);
+			name = OnesieTwosieTests;
+			productName = OnesieTwosieTests;
+			productReference = 0A12430E16D9215E003ECE00 /* OnesieTwosieTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0A1242DE16D9215E003ECE00 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = FL;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Frida Lovelace";
+			};
+			buildConfigurationList = 0A1242E116D9215E003ECE00 /* Build configuration list for PBXProject "OnesieTwosie" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0A1242DC16D9215E003ECE00;
+			productRefGroup = 0A1242E816D9215E003ECE00 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0A1242E616D9215E003ECE00 /* OnesieTwosie */,
+				0A12430D16D9215E003ECE00 /* OnesieTwosieTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0A1242E516D9215E003ECE00 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A1242F616D9215E003ECE00 /* InfoPlist.strings in Resources */,
+				0A1242FE16D9215E003ECE00 /* Default.png in Resources */,
+				0A12430016D9215E003ECE00 /* Default@2x.png in Resources */,
+				0A12430216D9215E003ECE00 /* Default-568h@2x.png in Resources */,
+				0A12430516D9215E003ECE00 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0A12430B16D9215E003ECE00 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A12431A16D9215E003ECE00 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0A12430C16D9215E003ECE00 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0A1242E316D9215E003ECE00 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A1242F816D9215E003ECE00 /* main.m in Sources */,
+				0A1242FC16D9215E003ECE00 /* FLAppDelegate.m in Sources */,
+				0A12430816D9215E003ECE00 /* FLViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0A12430916D9215E003ECE00 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A12431D16D9215E003ECE00 /* OnesieTwosieTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0A12431416D9215E003ECE00 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0A1242E616D9215E003ECE00 /* OnesieTwosie */;
+			targetProxy = 0A12431316D9215E003ECE00 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0A1242F416D9215E003ECE00 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A1242F516D9215E003ECE00 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		0A12430316D9215E003ECE00 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A12430416D9215E003ECE00 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+		0A12431816D9215E003ECE00 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A12431916D9215E003ECE00 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0A12431E16D9215E003ECE00 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		0A12431F16D9215E003ECE00 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0A12432116D9215E003ECE00 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "OnesieTwosie/OnesieTwosie-Prefix.pch";
+				INFOPLIST_FILE = "OnesieTwosie/OnesieTwosie-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0A12432216D9215E003ECE00 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "OnesieTwosie/OnesieTwosie-Prefix.pch";
+				INFOPLIST_FILE = "OnesieTwosie/OnesieTwosie-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		0A12432416D9215E003ECE00 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/OnesieTwosie.app/OnesieTwosie";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "OnesieTwosie/OnesieTwosie-Prefix.pch";
+				INFOPLIST_FILE = "OnesieTwosieTests/OnesieTwosieTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		0A12432516D9215E003ECE00 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/OnesieTwosie.app/OnesieTwosie";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "OnesieTwosie/OnesieTwosie-Prefix.pch";
+				INFOPLIST_FILE = "OnesieTwosieTests/OnesieTwosieTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0A1242E116D9215E003ECE00 /* Build configuration list for PBXProject "OnesieTwosie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A12431E16D9215E003ECE00 /* Debug */,
+				0A12431F16D9215E003ECE00 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0A12432016D9215E003ECE00 /* Build configuration list for PBXNativeTarget "OnesieTwosie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A12432116D9215E003ECE00 /* Debug */,
+				0A12432216D9215E003ECE00 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		0A12432316D9215E003ECE00 /* Build configuration list for PBXNativeTarget "OnesieTwosieTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A12432416D9215E003ECE00 /* Debug */,
+				0A12432516D9215E003ECE00 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0A1242DE16D9215E003ECE00 /* Project object */;
+}
