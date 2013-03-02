@@ -1,0 +1,17 @@
+
+PODS:
+- SDWebImage (3.1):
+  - SDWebImage/Main (= 3.1)
+- SDWebImage/Main (3.1)
+- SSToolkit (1.0.2)
+
+DEPENDENCIES:
+- SDWebImage (~> 3.1)
+- SSToolkit (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  SDWebImage: 9e70e5dd0c69d1a043180cd2c5e1d0cd1e4ebcd7
+  SDWebImage/Main: 9e70e5dd0c69d1a043180cd2c5e1d0cd1e4ebcd7
+  SSToolkit: 9751b7ec0d068dc1dc46c8121dfeff808f9e3d35
+
+COCOAPODS: 0.16.1

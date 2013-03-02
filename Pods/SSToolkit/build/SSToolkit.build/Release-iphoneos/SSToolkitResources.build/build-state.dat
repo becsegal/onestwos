@@ -1,0 +1,820 @@
+TSSToolkitResources
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPad.png Resources/Images/SSVignetteiPad.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png Resources/Images/SSVignetteiPhone.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png Resources/Images/SSVignetteiPhone@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cTouch /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/Info.plist
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPad.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star@2x.png
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c000000005128EC810000000000000100
+t1361636481
+s256
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c000000005128EC81000000000000015E
+t1361636481
+s350
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c000000005128EC81000000000000036F
+t1361636481
+s879
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c000000005128EC8100000000000004E0
+t1361636481
+s1248
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c000000005128EC81000000000000027C
+t1361636481
+s636
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c000000005128EC8100000000000003C9
+t1361636481
+s969
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPad.png
+c000000005128EC810000000000011E69
+t1361636481
+s73321
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPhone.png
+c000000005128EC810000000000007AC5
+t1361636481
+s31429
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPhone@2x.png
+c000000005128EC810000000000012181
+t1361636481
+s74113
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c000000005128EC810000000000000240
+t1361636481
+s576
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c000000005128EC810000000000000525
+t1361636481
+s1317
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c000000005128EC810000000000000248
+t1361636481
+s584
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c000000005128EC81000000000000053E
+t1361636481
+s1342
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c000000005128EC81000000000000008E
+t1361636481
+s142
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c000000005128EC8100000000000000CC
+t1361636481
+s204
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c000000005128EC81000000000000008E
+t1361636481
+s142
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c000000005128EC8100000000000000E7
+t1361636481
+s231
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/gray-star.png
+c000000005128EC810000000000000DC4
+t1361636481
+s3524
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c000000005128EC81000000000000118E
+t1361636481
+s4494
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-check.png
+c000000005128EC8100000000000001A1
+t1361636481
+s417
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c000000005128EC810000000000000299
+t1361636481
+s665
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-x.png
+c000000005128EC8100000000000001BA
+t1361636481
+s442
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c000000005128EC810000000000000310
+t1361636481
+s784
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/orange-star.png
+c000000005128EC810000000000000EB3
+t1361636481
+s3763
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c000000005128EC810000000000001456
+t1361636481
+s5206
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c000000005128EC81000000000000035B
+t1361636481
+s859
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c000000005128EC810000000000000352
+t1361636481
+s850
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c000000005128EC810000000000000374
+t1361636481
+s884
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c000000005128EC810000000000000361
+t1361636481
+s865
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c000000005128EC810000000000000361
+t1361636481
+s865
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c000000005128EC81000000000000035C
+t1361636481
+s860
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c000000005128EC8100000000000005F0
+t1361636481
+s1520
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c000000005128EC81000000000000033A
+t1361636481
+s826
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c000000005128EC810000000000000370
+t1361636481
+s880
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c000000005128EC810000000000000376
+t1361636481
+s886
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c000000005128EC81000000000000035A
+t1361636481
+s858
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c000000005128EC810000000000000361
+t1361636481
+s865
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c000000005128EC810000000000000382
+t1361636481
+s898
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c000000005128EC81000000000000036C
+t1361636481
+s876
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c000000005128EC81000000000000035A
+t1361636481
+s858
+
+N/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c000000005128EC810000000000000358
+t1361636481
+s856
+
+NResources/SSToolkitResources-Info.plist
+c000000005128EC810000000000000572
+t1361636481
+s1394
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3e221a0224d9b641^61c5250224d9b641^---0#1#0#--18"Check dependencies36"C8C7F12C-F5A2-493E-9A00-4A2D26C40A35-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s383329282.347447
+e383329282.398582
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png7616590224d9b641^d317660224d9b641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^1068"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"77577AA6-7F71-484E-BB2D-212691144995-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s383329282.347430
+e383329282.399334
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.pngf817590224d9b641^043b660224d9b641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^1088"CopyPNGFile "../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png" "Resources/Images/SSAddressBarTextFieldBackground@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png"36"DC997C84-8601-4593-9E39-64823BB062B4-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s383329282.348765
+e383329282.398639
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.pngf964590224d9b641^7920660224d9b641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^1052"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"A3843A8B-04B5-4D04-AC8F-B86DE6FE8047-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s383329282.354111
+e383329282.404444
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png13d25a0224d9b641^598b670224d9b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^1072"CopyPNGFile "../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png" "Resources/Images/SSAddressBarTextFieldReload@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png"36"7AF38A88-724D-4016-94FD-E08A39FDCE53-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s383329282.399773
+e383329282.448628
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png857a660224d9b641^5ad9720224d9b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^1044"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"A9F7C78E-C2FD-4A67-B0E0-E62C70511948-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s383329282.399788
+e383329282.451010
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png967a660224d9b641^ea75730224d9b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^1064"CopyPNGFile "../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png" "Resources/Images/SSAddressBarTextFieldStop@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png"36"580214EC-2108-4CDA-A716-A0EF751DB3A4-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPad.png Resources/Images/SSVignetteiPad.png
+s383329282.400367
+e383329282.805154
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPad.png
+xResources/Images/SSVignetteiPad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSVignetteiPad.png Resources/Images/SSVignetteiPad.png0797660224d9b641^f71ece0224d9b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPad.png0000000000000000^1000"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSVignetteiPad.png Resources/Images/SSVignetteiPad.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPad.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPad.png36"53231E5D-AD69-4351-9025-5E574F2DEBD7-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png Resources/Images/SSVignetteiPhone.png
+s383329282.405949
+e383329282.636065
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png
+xResources/Images/SSVignetteiPhone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png Resources/Images/SSVignetteiPhone.png7617680224d9b641^69fca20224d9b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPhone.png0000000000000000^1008"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png Resources/Images/SSVignetteiPhone.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPhone.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone.png36"5166A826-CA31-4490-A2A3-8B0E778E537E-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png Resources/Images/SSVignetteiPhone@2x.png
+s383329282.449909
+e383329282.907699
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png
+xResources/Images/SSVignetteiPhone@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile ../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png Resources/Images/SSVignetteiPhone@2x.png0455730224d9b641^395fe80224d9b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPhone@2x.png0000000000000000^1028"CopyPNGFile "../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png" "Resources/Images/SSVignetteiPhone@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/SSVignetteiPhone@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/SSVignetteiPhone@2x.png"36"5F3715C0-BF8A-4DD2-9CA0-382F53095333-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s383329282.452239
+e383329282.502669
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png4cfa730224d9b641^ecbd800224d9b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^1016"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton.png36"E283C5C0-08EA-4E06-9CC5-0ED3E3D2CD82-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s383329282.507353
+e383329282.561680
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.pnge90a820224d9b641^83da8f0224d9b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^1036"CopyPNGFile "../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png" "Resources/Images/UISegmentBarButton@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButton@2x.png"36"A1D53788-FFF3-4A42-AA80-8ED4076FA55E-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s383329282.562935
+e383329282.611050
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.pngab3d900224d9b641^4c6e9c0224d9b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^1060"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"DAF05EEB-72F8-406A-80D3-8351F75CE5D1-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s383329282.612357
+e383329282.680517
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png60e59c0224d9b641^6c3eae0224d9b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^1080"CopyPNGFile "../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png" "Resources/Images/UISegmentBarButtonHighlighted@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png"36"5FCBFC94-2D39-47FE-86BA-6265DA906BA9-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s383329282.637279
+e383329282.689938
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png344aa30224d9b641^3ca0b00224d9b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^1020"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider.png36"39373379-7BE0-4766-8C59-03C41929C782-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s383329282.687793
+e383329282.738133
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png4835b00224d9b641^9df6bc0224d9b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^1040"CopyPNGFile "../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png" "Resources/Images/UISegmentBarDivider@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDivider@2x.png"36"273B206F-7A9A-4478-B0CE-ABAE8FA6FF25-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s383329282.691108
+e383329282.737478
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png0d17b10224d9b641^c8cdbc0224d9b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^1064"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"1B416D22-D315-42D6-A798-6D0B8232E099-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s383329282.738691
+e383329282.780866
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"CopyPNGFile ../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png253cbd0224d9b641^5ce7c70224d9b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^1084"CopyPNGFile "../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png" "Resources/Images/UISegmentBarDividerHighlighted@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png"36"4470D270-3282-42BF-A349-C1493E10A537-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s383329282.292455
+e383329282.346162
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CopyPNGFile ../Resources/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png20094b0224d9b641^bea1580224d9b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^980"CopyPNGFile ../Resources/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/gray-star.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star.png36"67255820-281F-4AF1-A0CD-481E3FFD94FF-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s383329282.292468
+e383329282.347590
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"CopyPNGFile ../Resources/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png60064b0224d9b641^9204590224d9b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^1000"CopyPNGFile "../Resources/SSToolkitResources.bundle/gray-star@2x.png" "Resources/Images/gray-star@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/gray-star@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/gray-star@2x.png"36"58E40A20-6D50-421A-AC81-6675CF4A4E45-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s383329282.189728
+e383329282.291181
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CopyPNGFile ../Resources/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png7ec3300224d9b641^92964a0224d9b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^980"CopyPNGFile ../Resources/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-check.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check.png36"9E369659-1B77-48BA-A7E6-8F2CEE0FB2A6-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s383329282.191174
+e383329282.298039
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"CopyPNGFile ../Resources/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.pngec16310224d9b641^47584c0224d9b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^1000"CopyPNGFile "../Resources/SSToolkitResources.bundle/hud-check@2x.png" "Resources/Images/hud-check@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-check@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-check@2x.png"36"D8890B0C-4660-4B5A-8595-1499A07D2789-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s383329282.192454
+e383329282.291231
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CopyPNGFile ../Resources/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png9468310224d9b641^f19f4a0224d9b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^964"CopyPNGFile ../Resources/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-x.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x.png36"F4D75D3D-5961-4331-834E-1E76A31470A3-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s383329282.193715
+e383329282.295956
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CopyPNGFile ../Resources/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png84bd310224d9b641^a4c34b0224d9b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^984"CopyPNGFile "../Resources/SSToolkitResources.bundle/hud-x@2x.png" "Resources/Images/hud-x@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/hud-x@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/hud-x@2x.png"36"646BF435-6E9E-4E40-A6BD-0AAE9A6A95DE-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s383329282.297145
+e383329282.346164
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile ../Resources/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png213a4c0224d9b641^33a6580224d9b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^988"CopyPNGFile ../Resources/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/orange-star.png /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star.png36"343A006A-6F90-4855-BB58-CFFA51BA0062-
+
+CCopyPNGFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s383329282.299235
+e383329282.352787
+r1
+xCopyPNGFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile ../Resources/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png33c54c0224d9b641^1c605a0224d9b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^1008"CopyPNGFile "../Resources/SSToolkitResources.bundle/orange-star@2x.png" "Resources/Images/orange-star@2x.png"    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/Images/orange-star@2x.png" "/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/orange-star@2x.png"36"FB0BA45E-C48C-47CA-BB95-271D96A8DE55-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s383329282.171626
+e383329282.174612
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.stringsea042c0224d9b641^c4b32c0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"9D1D8D55-7B1F-4079-A516-40BFFC0A45F3-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s383329282.171051
+e383329282.173745
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings08e72b0224d9b641^357b2c0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"19ABC193-B007-49E5-BBC5-18682C1AB48F-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s383329282.171654
+e383329282.176351
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.stringsea082c0224d9b641^ee252d0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"531192E8-6661-4209-BB99-75493C270E92-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s383329282.172543
+e383329282.177052
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings07442c0224d9b641^df532d0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"C177F449-C979-4DF7-A459-3C8252B4F72D-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s383329282.174966
+e383329282.178703
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings5bee2c0224d9b641^76c02d0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"E424B4F2-5263-40F6-A855-FC131C9D8A35-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s383329282.174981
+e383329282.179379
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings89ef2c0224d9b641^5fec2d0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"79D4D54F-D151-48B7-BE96-9A3F40FF1A60-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s383329282.177515
+e383329282.181717
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.stringsf7932d0224d9b641^55852e0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"D7AF7DD9-B7AA-4B45-AD4C-AC4CCED1B44C-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s383329282.177585
+e383329282.180952
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.stringsee952d0224d9b641^da532e0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"161A1AC0-1E06-4A90-B04A-DEA85BE7C5F3-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s383329282.179852
+e383329282.183271
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings55302e0224d9b641^1ceb2e0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"6EE94B1C-1B4E-4D43-83AD-9F9DBAB630EC-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s383329282.179910
+e383329282.184421
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.stringsba302e0224d9b641^f0362f0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"918CBC53-3F91-49FF-89DB-F0EAFBA55572-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s383329282.182220
+e383329282.186592
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.stringsb1c12e0224d9b641^26c52f0224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"D3A3CCDC-225B-481D-9D09-B85B97BEB815-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s383329282.182210
+e383329282.185495
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings2bc12e0224d9b641^417d2f0224d9b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^940"CopyStringsFile ../Resources/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"AB146E1D-9B62-4B7B-A68C-507AA0E7D636-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s383329282.184459
+e383329282.188525
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.stringsb5532f0224d9b641^7c48300224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"0A4DC6A0-0A78-4DD5-81B8-0B6EB42A465F-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s383329282.185629
+e383329282.189938
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings38a22f0224d9b641^2592300224d9b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^928"CopyStringsFile ../Resources/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"082B6705-C027-45E9-9FA5-F1ADFC95717A-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s383329282.185618
+e383329282.191244
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.stringsc2a12f0224d9b641^4303310224d9b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^948"CopyStringsFile ../Resources/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"E45340B2-AC59-48EE-8BB0-0ACFA2885600-
+
+CCopyStringsFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s383329282.188498
+e383329282.192534
+r1
+xCopyStringsFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.stringsf965300224d9b641^d849310224d9b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^948"CopyStringsFile ../Resources/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"4326CF69-8124-49BD-A88D-6E0423CCB1D0-
+
+CProcessInfoPlistFile /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist
+s383329282.157278
+e383329282.161405
+r1
+xProcessInfoPlistFile
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/Info.plist
+xResources/SSToolkitResources-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Process Resources/SSToolkitResources-Info.plist1364280224d9b641^6e52290224d9b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^919"ProcessInfoPlistFile ../Resources/SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    builtin-infoPlistUtility Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle/Info.plist36"E4130240-6C3F-4235-B951-B596088DF90A-
+
+CTouch /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle
+s383329282.915966
+e383329282.920579
+r1
+xTouch
+x/Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle4694ea0224d9b641^c9abeb0224d9b641^---0#0#0#--737"Touch ../Resources/SSToolkitResources.bundle    cd /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/becarella/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/becarella/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/opt/local/bin:/Users/becarella/.rvm/bin:/usr/local/sbin"    /usr/bin/touch -c /Users/becarella/Developer/OnesieTwosie/Pods/SSToolkit/../Resources/SSToolkitResources.bundle36"74D3EE07-9580-455F-A1AD-0E3DCADCB432-
+
